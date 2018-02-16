@@ -9,7 +9,7 @@
 		"access": null,
 		"disabled": false,
 		"picture": {
-			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/raw/master/pythonlogo.jpg",
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/pythonlogo.jpg",
 			"alt": "Collab logo "
 		},
 		"next": "mooc_form",
