@@ -9,26 +9,26 @@
 		"access": null,
 		"disabled": false,
 		"picture": {
-			"src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/mooc1-image.gif",
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/raw/master/pythonlogo.jpg",
 			"alt": "Collab logo "
 		},
 		"next": "mooc_form",
 		"files": [
 			{
-				"entryname": "Week 1. Exercise_01",
+				"entryname": "Week 1. Python_tutorial_00",
 				"appid": 175,
 				"contenttype": "x-ipynb+json",
 				"extension": ".ipynb",
-				"file": "https://raw.githubusercontent.com/BlueBrain/MOOC-neurons-and-synapses-2017/master/Neuroinformatics/Neuroinformatics.ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Python_tutorial_part_0.ipynb",
 				"initial": true,
 				"justcopy": false
 			},
 			{
-				"entryname": "Week 1. Exercise_02",
+				"entryname": "Week 1. Python_tutorial_01",
 				"appid": 175,
 				"contenttype": "x-ipynb+json",
 				"extension": ".ipynb",
-				"file": "https://raw.githubusercontent.com/BlueBrain/MOOC-neurons-and-synapses-2017/master/Neuroinformatics/Neuroinformatics.ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Python_tutorial_part_1.ipynb",
 				"initial": false,
 				"justcopy": false
 			}
