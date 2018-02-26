@@ -35,7 +35,7 @@
 		]
 	},
 	{
-		"title": "Week 2",
+		"title": "Week 2: Neuroinformatics",
 		"description": "",
 		"experience": [
 			"all"
@@ -57,14 +57,6 @@
 				"file": "",
 				"justcopy": false,
 				"initial": true
-			},
-			{
-				"entryname": "Week 2. Exercise_02",
-				"appid": 175,
-				"contenttype": "x-ipynb+json",
-				"extension": ".ipynb",
-				"file": "",
-				"justcopy": false
 			}
 		]
 	},
