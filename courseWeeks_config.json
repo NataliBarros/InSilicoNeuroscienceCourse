@@ -42,7 +42,7 @@
 		],
 		"maturity": null,
 		"access": null,
-		"disabled": true,
+		"disabled": false,
 		"picture": {
 			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/AllenBrainAtlas.png",
 			"alt": "Collab logo "
