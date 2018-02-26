@@ -44,13 +44,13 @@
 		"access": null,
 		"disabled": true,
 		"picture": {
-			"src": "",
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/AllenBrainAtlas.png",
 			"alt": "Collab logo "
 		},
 		"next": "mooc_form",
 		"files": [
 			{
-				"entryname": "Week 2. Exercise_01",
+				"entryname": "Week 2. Explore_ab_data",
 				"appid": 175,
 				"contenttype": "x-ipynb+json",
 				"extension": ".ipynb",
