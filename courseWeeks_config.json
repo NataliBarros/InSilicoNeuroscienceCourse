@@ -83,6 +83,46 @@
 				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/NEURON_tutorial.ipynb",
 				"justcopy": false,
 				"initial": true
+			},
+			{
+				"entryname": "destexhe_morpho.swc",
+				"appid": 175,
+				"contenttype": "x-swc",
+				"extension": ".swc",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/destexhe_morpho.swc",
+				"justcopy": true
+			},
+			{
+				"entryname": "TC_ITGHK.mod",
+				"appid": 175,
+				"contenttype": "x-mod",
+				"extension": ".mod",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/TC_ITGHK.mod",
+				"justcopy": true
+			},
+			{
+				"entryname": "TC_Ih.mod",
+				"appid": 175,
+				"contenttype": "x-mod",
+				"extension": ".mod",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/TC_Ih.mod",
+				"justcopy": true
+			},
+			{
+				"entryname": "TC_iA.mod",
+				"appid": 175,
+				"contenttype": "x-mod",
+				"extension": ".mod",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/TC_iA.mod",
+				"justcopy": true
+			},
+			{
+				"entryname": "TC_HH.mod",
+				"appid": 175,
+				"contenttype": "x-mod",
+				"extension": ".mod",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/TC_HH.mod",
+				"justcopy": true
 			}
 		]
 	}
