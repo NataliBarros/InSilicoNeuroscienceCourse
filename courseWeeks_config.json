@@ -85,7 +85,7 @@
 				"initial": true
 			},
 			{
-				"entryname": "destexhe_morpho.swc",
+				"entryname": "destexhe_morpho",
 				"appid": 175,
 				"contenttype": "x-swc",
 				"extension": ".swc",
@@ -93,7 +93,7 @@
 				"justcopy": true
 			},
 			{
-				"entryname": "TC_ITGHK.mod",
+				"entryname": "TC_ITGHK",
 				"appid": 175,
 				"contenttype": "x-mod",
 				"extension": ".mod",
@@ -101,7 +101,7 @@
 				"justcopy": true
 			},
 			{
-				"entryname": "TC_Ih.mod",
+				"entryname": "TC_Ih",
 				"appid": 175,
 				"contenttype": "x-mod",
 				"extension": ".mod",
@@ -109,7 +109,7 @@
 				"justcopy": true
 			},
 			{
-				"entryname": "TC_iA.mod",
+				"entryname": "TC_iA",
 				"appid": 175,
 				"contenttype": "x-mod",
 				"extension": ".mod",
@@ -117,7 +117,7 @@
 				"justcopy": true
 			},
 			{
-				"entryname": "TC_HH.mod",
+				"entryname": "TC_HH",
 				"appid": 175,
 				"contenttype": "x-mod",
 				"extension": ".mod",
