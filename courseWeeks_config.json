@@ -96,28 +96,29 @@
 		"access": null,
 		"disabled": false,
 		"picture": {
-			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/pythonlogo.jpg",
-			"alt": "Collab logo "
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Nexus_logo.jpg",
+			"alt": "Nexus logo "
 		},
 		"next": "mooc_form",
 		"files": [
 			{
-				"entryname": "Week 1. Python_tutorial_00",
+				"entryname": "Week 4. Nexus_tutorial_01",
 				"appid": 175,
 				"contenttype": "x-ipynb+json",
 				"extension": ".ipynb",
-				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Python_tutorial_part_0.ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/week4-notebook-part-1.ipynb",
 				"initial": true,
 				"justcopy": false
 			},
 			{
-				"entryname": "Week 1. Python_tutorial_01",
+				"entryname": "Week 4. Nexus_tutorial_02",
 				"appid": 175,
 				"contenttype": "x-ipynb+json",
 				"extension": ".ipynb",
-				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Python_tutorial_part_1.ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/week4-notebook-part-2.ipynb",
 				"initial": false,
 				"justcopy": false
 			}
 		]
+	}
 ]
