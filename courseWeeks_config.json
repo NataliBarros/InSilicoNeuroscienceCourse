@@ -172,5 +172,31 @@
 				"initial": true
 			}
 		]
+	},
+	{
+		"title": "Week 7: eFel_Tutorial_02",
+		"description": "",
+		"experience": [
+			"all"
+		],
+		"maturity": null,
+		"access": null,
+		"disabled": false,
+		"picture": {
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Picture_week7.png",
+			"alt": "Collab logo "
+		},
+		"next": "mooc_form",
+		"files": [
+			{
+				"entryname": "Week 7. eFel_Tutorial_02",
+				"appid": 175,
+				"contenttype": "x-ipynb+json",
+				"extension": ".ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/efelTutorial_2_week7.ipynb",
+				"justcopy": false,
+				"initial": true
+			}
+		]
 	}
 ]
