@@ -198,5 +198,31 @@
 				"initial": true
 			}
 		]
+	},
+	{
+		"title": "Week 9: Tutorial_ionChannels",
+		"description": "",
+		"experience": [
+			"all"
+		],
+		"maturity": null,
+		"access": null,
+		"disabled": false,
+		"picture": {
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/IonChannelPic.png",
+			"alt": "Collab logo "
+		},
+		"next": "mooc_form",
+		"files": [
+			{
+				"entryname": "Week 9. Tutorial_ionChannels",
+				"appid": 175,
+				"contenttype": "x-ipynb+json",
+				"extension": ".ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/week9_Tutorial.ipynb",
+				"justcopy": false,
+				"initial": true
+			}
+		]
 	}
 ]
