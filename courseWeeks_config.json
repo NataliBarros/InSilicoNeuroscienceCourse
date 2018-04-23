@@ -224,5 +224,31 @@
 				"initial": true
 			}
 		]
+	},
+	{
+		"title": "Week 10: BluePyOpt_Tutorial_01",
+		"description": "",
+		"experience": [
+			"all"
+		],
+		"maturity": null,
+		"access": null,
+		"disabled": false,
+		"picture": {
+			"src": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/week10_picture.jpg",
+			"alt": "Collab logo "
+		},
+		"next": "mooc_form",
+		"files": [
+			{
+				"entryname": "Week 9. Tutorial_ionChannels",
+				"appid": 175,
+				"contenttype": "x-ipynb+json",
+				"extension": ".ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/Week10_BallStickBluepyOpt.ipynb",
+				"justcopy": false,
+				"initial": true
+			}
+		]
 	}
 ]
