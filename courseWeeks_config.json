@@ -274,6 +274,15 @@
 				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/L5PC_notebook_Substitution.ipynb",
 				"justcopy": false,
 				"initial": true
+			},
+			{
+				"entryname": "Week 11. BluePyOpt_Tut_NSGportal",
+				"appid": 175,
+				"contenttype": "x-ipynb+json",
+				"extension": ".ipynb",
+				"file": "https://raw.githubusercontent.com/NataliBarros/InSilicoNeuroscienceCourse/master/L5PC_Opt_NSGportal.ipynb",
+				"justcopy": false,
+				"initial": true
 			}
 		]
 	}
